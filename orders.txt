@@ -1,0 +1,5 @@
+Customer: Tester
+Order Details:
+Cold Coffee x 1 = Rs 80
+Total Bill: Rs 84
+--------------------------------
